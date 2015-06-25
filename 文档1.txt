@@ -6,6 +6,7 @@ test pull from client to github
 本地开始接着步骤_3做修改 并提交
 buzhou_4
 
+
 在步骤4后
 (也就是说我们check的hioscar-pacht-1分支还没工作完，
 主分支master别个又更新了一个版本了，我们要先在切换到)
@@ -46,4 +47,5 @@ $ git push
 
 主干分支发生变化了
 buzhou_5
+
 
